@@ -1,6 +1,6 @@
-# nuxt-hello-world
+# nuxt, eslint(airbnb) config
 
-> Hello world
+> Nuxt starter project, with eslint(airbnb) and path-resolve config
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
